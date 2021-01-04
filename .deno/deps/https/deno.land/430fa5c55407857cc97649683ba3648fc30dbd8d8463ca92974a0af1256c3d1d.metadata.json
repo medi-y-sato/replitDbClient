@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cf-ray": "60c1641b5d040410-ORD",
+    "x-deno-warning": "Implicitly using latest version (v0.23.0) for https://deno.land/x/ky/index.js",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "set-cookie": "__cfduid=dd08e8dac638500b1d2464b29f4aab8871609725889; expires=Wed, 03-Feb-21 02:04:49 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "location": "/x/ky@v0.23.0/index.js",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Mon, 04 Jan 2021 02:04:49 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=rnNeuYVx%2B4stOD2TJgMtJWo9eoeAXPVVEqdiXq%2BdXJwsiVjbMfMzq1rq%2BCjPvwf5L5xJ3JV1uvRaajxnDn%2FHYVVXcIr%2Bwp44R5U%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "content-length": "0",
+    "cf-request-id": "076cbce512000004107fabe000000001",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/x/ky/index.js"
+}
